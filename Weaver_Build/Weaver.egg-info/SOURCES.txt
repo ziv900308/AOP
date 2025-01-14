@@ -1,0 +1,10 @@
+setup.py
+Weaver/ScanAspect.py
+Weaver/Weaver.py
+Weaver/__init__.py
+Weaver/__main__.py
+Weaver.egg-info/PKG-INFO
+Weaver.egg-info/SOURCES.txt
+Weaver.egg-info/dependency_links.txt
+Weaver.egg-info/entry_points.txt
+Weaver.egg-info/top_level.txt
